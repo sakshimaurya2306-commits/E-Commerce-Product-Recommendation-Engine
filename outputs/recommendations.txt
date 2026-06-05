@@ -1,0 +1,18 @@
+E-Commerce Product Recommendation Report
+=======================================
+
+User ID: U1
+
+Recommended Products:
+
+1. Bluetooth Speaker | Category: Electronics | Brand: JBL | Price: Rs.1999.0 | Score: 28.0
+2. Jeans | Category: Clothing | Brand: Levis | Price: Rs.1999.0 | Score: 22.0
+3. Hoodie | Category: Clothing | Brand: H&M | Price: Rs.1599.0 | Score: 22.0
+
+DSA Concepts Used:
+- Dictionary / HashMap
+- List
+- Set
+- Sorting
+- Heap / Priority Queue
+- Similarity Scoring
