@@ -232,7 +232,7 @@ Through this project, I learned:
 - Deploy the web app online
 
 ## Author
-Your Name
+Sakshi Ramakabal Maurya B.Tech in Information Technology at K.j. Somaiya institute of technology
 
 
 
